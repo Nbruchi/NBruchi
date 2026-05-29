@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bruce NKUNDABAGENZI</h1>
 <h3 align="center">A passionate full-stack engineer from Rwanda</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nbruchi&label=Profile%20views&color=0e75b6&style=flat" alt="nbruchi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nbruchi" alt="nbruchi" /></a> </p>
-
-- 🔭 I’m currently working on [Polaris](https://github.com/Nbruchi/polaris)
+- 🔭 I’m currently working on [WithinTechLearn]([https://github.com/N-Pacis/withintech-learn])
 
 - 🌱 I’m currently learning **Nest.js, AI-assisted development**
 
-- 💬 Ask me about **Next.js, Web development, Nest.js**
+- 💬 Ask me about **Web development, AI Spec-driven development**
 
 - 📫 How to reach me **brucenkundabagenzi@gmail.com**
 
