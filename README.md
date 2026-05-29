@@ -8,6 +8,7 @@
 - 💬 Ask me about **Web development, AI Spec-driven development**
 
 - 📫 How to reach me **brucenkundabagenzi@gmail.com**
+- ☎️ Reach me on Whatsapp: **+250 795 067 913**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
