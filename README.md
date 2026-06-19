@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Go, Advanced Nest.js, Advanced DB operatioons**
 
-- 📫 How to reach me **https://www.linkedin.com/in/bruce-nkundabagenzi-7218b83ab/**
+- 📫 How to reach me **Whatsapp: +250 795 067 913**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
